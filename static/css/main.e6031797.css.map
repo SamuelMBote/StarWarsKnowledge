@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e6031797.css","mappings":"AAAA,WACE,oBAAuB,CACvB,0GACF","sources":["index.css"],"sourcesContent":["@font-face {\n  font-family: 'StarJedi';\n  src: local('StarJedi'), url('../src/assets/fonts/StarJedi.ttf') format('ttf');\n}\n\n"],"names":[],"sourceRoot":""}
