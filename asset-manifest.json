@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/StarWarsKnowledge/static/css/main.e6031797.css",
-    "main.js": "/StarWarsKnowledge/static/js/main.ce813232.js",
+    "main.js": "/StarWarsKnowledge/static/js/main.282cdd5c.js",
     "static/js/787.b1b501c9.chunk.js": "/StarWarsKnowledge/static/js/787.b1b501c9.chunk.js",
     "static/media/StarJedi.ttf": "/StarWarsKnowledge/static/media/StarJedi.4c37e50c5883f338f4ec.ttf",
     "index.html": "/StarWarsKnowledge/index.html",
     "main.e6031797.css.map": "/StarWarsKnowledge/static/css/main.e6031797.css.map",
-    "main.ce813232.js.map": "/StarWarsKnowledge/static/js/main.ce813232.js.map",
+    "main.282cdd5c.js.map": "/StarWarsKnowledge/static/js/main.282cdd5c.js.map",
     "787.b1b501c9.chunk.js.map": "/StarWarsKnowledge/static/js/787.b1b501c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6031797.css",
-    "static/js/main.ce813232.js"
+    "static/js/main.282cdd5c.js"
   ]
 }
